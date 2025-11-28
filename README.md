@@ -29,6 +29,7 @@ the system triggers an alert at the timestamp of the missed heartbeat.
 ---
 
 ## Project Structure
+```bash
 heartbeat-monitor/
 ├── index.js # Entry point
 ├── main.js # Heartbeat detection logic
@@ -36,7 +37,7 @@ heartbeat-monitor/
 ├── events.json # Input events
 ├── package.json
 └── README.md
-
+```
 
 ---
 
